@@ -12,7 +12,7 @@ jobs:
     name: Sync
     runs-on: ubuntu-latest
     env:
-        NOTION_TOKEN: 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
+        NOTION_TOKEN: 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
         NOTION_PAGE: 1c9bca045b5f8036b704d2997980608e
         KEEP_MOBILE: ${{ secrets.KEEP_MOBILE }}
         KEEP_PASSWORD: ${{ secrets.KEEP_PASSWORD }}
